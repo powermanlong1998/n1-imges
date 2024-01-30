@@ -1,1 +1,1 @@
-From docker.io/xiaoyaliu/alist:hostmode
+From docker.io/xiaoyaliu/alist:latest
