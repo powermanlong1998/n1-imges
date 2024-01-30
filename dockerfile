@@ -1,1 +1,1 @@
-From docker.io/xiaoyaliu/alist:latest
+From docker.io/xiaoyaliu/alist:hostmodexiaoyaliu/alist:hostmode@sha256:def3bc1a91194194ffb2fdfb2dfafe19270bcb2e2abd6282f781a4f45025064d
