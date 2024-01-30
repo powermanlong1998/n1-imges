@@ -1,1 +1,1 @@
-From docker.io/xiaoyaliu/alist:hostmodexiaoyaliu/alist:hostmode@sha256:def3bc1a91194194ffb2fdfb2dfafe19270bcb2e2abd6282f781a4f45025064d
+From docker.io/xiaoyaliu/alist:hostmode@sha256:49655ae5cf6081b8233b102184442ee8e4ff79aa0042ec4044d0d3fdecfafd57
