@@ -1,1 +1,1 @@
-From docker.io/xiaoyaliu/alist:hostmode@sha256:49655ae5cf6081b8233b102184442ee8e4ff79aa0042ec4044d0d3fdecfafd57
+From docker.io/linuxserver/resilio-sync:latest@sha256:aeb7020b76726e26bc6e6bf08af0e286e32313aca024b1cba3000b4d4e5fd35a
